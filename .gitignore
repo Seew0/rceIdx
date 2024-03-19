@@ -1,5 +1,6 @@
 client/node_modules
-client/.next
+client/postcss.config.js
+client/tailwind.config.js
 client/out
 client/.pnp
 client/.pnp.js

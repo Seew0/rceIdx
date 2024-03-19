@@ -1,7 +1,6 @@
 package dao
 
 import (
-	"fmt"
 	"log"
 	"os"
 	"time"
